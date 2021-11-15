@@ -3,4 +3,6 @@ repo description
 
 # todo
 - [ ] xx
-- [ ] add test file
+
+# done
+- [x] add test file
